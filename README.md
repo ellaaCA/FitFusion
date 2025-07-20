@@ -1,7 +1,7 @@
-# FitFusion
+# Student's Athlete Hub
 Fuse your workouts with real-time progress.
 
-FitFusion is a mobile application built using Flutter, designed for students and Instructors to track, record, and view real-time fitness progress. The app promotes a healthy lifestyle through daily workout logging, progress charts, and user-friendly features tailored for school environments.
+A mobile application built using Flutter, designed for students and Instructors to track, record, and view real-time fitness progress. The app promotes a healthy lifestyle through daily workout logging, progress charts, and user-friendly features tailored for school environments.
 
 
 ## Features
